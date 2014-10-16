@@ -8,6 +8,7 @@
 // mutable so we use unsafeWindow below. This handles the post message
 // connections and does a little UI work on the side.
 self.port.on('connection', function (connection) {
+  console.log(connection);
   global.allConnections.push(connection);
   global.aggregate.emit('connection', connection);
 });
