@@ -14,19 +14,22 @@ var g = global;
 // Constants for indexes of properties in array format
 const SOURCE = 0;
 const TARGET = 1;
-const TIMESTAMP = 2;
-const CONTENT_TYPE = 3;
-const COOKIE = 4;
-const SOURCE_VISITED = 5;
-const SECURE = 6;
-const SOURCE_PATH_DEPTH = 7;
-const SOURCE_QUERY_DEPTH = 8;
-const SOURCE_SUB = 9;
-const TARGET_SUB = 10;
-const METHOD = 11;
-const STATUS = 12;
-const CACHEABLE = 13;
-const FROM_PRIVATE_MODE = 14;
+const PATH = 2;
+const SPEC = 3;
+const HEADERS = 4;
+const TIMESTAMP = 5;
+const CONTENT_TYPE = 6;
+const COOKIE = 7;
+const SOURCE_VISITED = 8;
+const SECURE = 9;
+const SOURCE_PATH_DEPTH = 10;
+const SOURCE_QUERY_DEPTH = 11;
+const SOURCE_SUB = 12;
+const TARGET_SUB = 13;
+const METHOD = 14;
+const STATUS = 15;
+const CACHEABLE = 16;
+const FROM_PRIVATE_MODE = 17;
 
 var vizcanvas = document.querySelector('.vizcanvas');
 var mapDocument, mapcanvas;
@@ -168,7 +171,7 @@ global.singularOrPluralNoun = function singularOrPluralNoun(num, str) {
 global.updateStatsBar = function updateStatsBar() {
   var dateSince = "just now";
   if (global.allConnections.length > 0) {
-    dateSince = formattedDate(global.allConnections[0][2]);
+    dateSince = formattedDate(global.allConnections[0][5]);
   }
   document.querySelector(".top-bar .date-gathered").textContent = dateSince;
   document.querySelector(".top-bar .third-party-sites").textContent = aggregate.trackerCount + " " + singularOrPluralNoun(aggregate.trackerCount, "THIRD PARTY SITE");

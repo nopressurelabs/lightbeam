@@ -69,6 +69,7 @@ btnGroupArray.forEach(function (btnGroup) {
     switch (val) {
     case 'graph':
     case 'list':
+    case 'hystogram':
       switchVisualization(val);
       break;
     case 'recent':

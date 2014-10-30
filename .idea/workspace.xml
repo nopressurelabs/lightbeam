@@ -2,212 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68116010-30c4-488d-a1a5-8f964cb5e278" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/Lightbeam---Wordmark-Beta.png" afterPath="$PROJECT_DIR$/data/image/Lightbeam---Wordmark-Beta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/Lightbeam_radio_off.png" afterPath="$PROJECT_DIR$/data/image/Lightbeam_radio_off.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/Lightbeam_radio_on.png" afterPath="$PROJECT_DIR$/data/image/Lightbeam_radio_on.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/font/OpenSans-Bold.ttf" afterPath="$PROJECT_DIR$/data/font/OpenSans-Bold.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/font/OpenSans-BoldItalic.ttf" afterPath="$PROJECT_DIR$/data/font/OpenSans-BoldItalic.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/font/OpenSans-Light.ttf" afterPath="$PROJECT_DIR$/data/font/OpenSans-Light.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/font/OpenSans-LightItalic.ttf" afterPath="$PROJECT_DIR$/data/font/OpenSans-LightItalic.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/adobe-poll-key.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/adobe-poll-key.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/adobe-poll.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/adobe-poll.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bg_hr.png" afterPath="$PROJECT_DIR$/images/bg_hr.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blacktocat.png" afterPath="$PROJECT_DIR$/images/blacktocat.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/collusion_visual_comps_template.ai" afterPath="$PROJECT_DIR$/design/collusion_visual_comps_template.ai" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/collusion_visual_comps_template.pdf" afterPath="$PROJECT_DIR$/design/collusion_visual_comps_template.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/dnt-ff.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/dnt-ff.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/firefox-cookies-comic.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/firefox-cookies-comic.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/first-party.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/first-party.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/font/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/data/font/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/ht_conceptUI_browser.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/ht_conceptUI_browser.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/ht_concept_widget.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/ht_concept_widget.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icon_download.png" afterPath="$PROJECT_DIR$/images/icon_download.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/font/league_gothic-webfont.eot" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/font/league_gothic-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/font/league_gothic-webfont.ttf" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/font/league_gothic-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/font/league_gothic-webfont.woff" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/font/league_gothic-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/lightbeam-final-blue.ai" afterPath="$PROJECT_DIR$/assets/lightbeam-final-blue.ai" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/icons/lightbeam_150x45.png" afterPath="$PROJECT_DIR$/data/icons/lightbeam_150x45.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam__wordmark_temp.png" afterPath="$PROJECT_DIR$/data/image/lightbeam__wordmark_temp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_icon_about.png" afterPath="$PROJECT_DIR$/data/image/lightbeam_icon_about.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/icons/lightbeam_icon_block.png" afterPath="$PROJECT_DIR$/data/icons/lightbeam_icon_block.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_icon_checkbox.png" afterPath="$PROJECT_DIR$/data/image/lightbeam_icon_checkbox.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_icon_download2.png" afterPath="$PROJECT_DIR$/data/image/lightbeam_icon_download2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/icons/lightbeam_icon_empty_list.png" afterPath="$PROJECT_DIR$/data/icons/lightbeam_icon_empty_list.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_icon_feedback.png" afterPath="$PROJECT_DIR$/data/image/lightbeam_icon_feedback.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_icon_graph.png" afterPath="$PROJECT_DIR$/data/image/lightbeam_icon_graph.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_icon_help.png" afterPath="$PROJECT_DIR$/data/image/lightbeam_icon_help.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/icons/lightbeam_icon_hide.png" afterPath="$PROJECT_DIR$/data/icons/lightbeam_icon_hide.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_icon_list.png" afterPath="$PROJECT_DIR$/data/image/lightbeam_icon_list.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_icon_list_blue.png" afterPath="$PROJECT_DIR$/data/image/lightbeam_icon_list_blue.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_icon_reset.png" afterPath="$PROJECT_DIR$/data/image/lightbeam_icon_reset.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_icon_sortby.png" afterPath="$PROJECT_DIR$/data/image/lightbeam_icon_sortby.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/icons/lightbeam_icon_unblock.png" afterPath="$PROJECT_DIR$/data/icons/lightbeam_icon_unblock.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/icons/lightbeam_icon_watch.png" afterPath="$PROJECT_DIR$/data/icons/lightbeam_icon_watch.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_icon_website.png" afterPath="$PROJECT_DIR$/data/image/lightbeam_icon_website.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only.jpg" afterPath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only.png" afterPath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only_16x16.png" afterPath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only_16x16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/icons/lightbeam_logo-only_16x16.png" afterPath="$PROJECT_DIR$/data/icons/lightbeam_logo-only_16x16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only_32x32.png" afterPath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only_32x32.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/icons/lightbeam_logo-only_32x32.png" afterPath="$PROJECT_DIR$/data/icons/lightbeam_logo-only_32x32.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only_48x48.png" afterPath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only_48x48.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/icons/lightbeam_logo-only_48x48.png" afterPath="$PROJECT_DIR$/data/icons/lightbeam_logo-only_48x48.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only_64x64.png" afterPath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only_64x64.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only_CMYK.eps" afterPath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only_CMYK.eps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/logo-wordmark/lightbeam_logo-wordmark_300x150.png" afterPath="$PROJECT_DIR$/assets/logo-wordmark/lightbeam_logo-wordmark_300x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/icons/lightbeam_logo-wordmark_300x150.png" afterPath="$PROJECT_DIR$/data/icons/lightbeam_logo-wordmark_300x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/logo-wordmark/lightbeam_logo-wordmark_800x250.png" afterPath="$PROJECT_DIR$/assets/logo-wordmark/lightbeam_logo-wordmark_800x250.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_popup_blocked.png" afterPath="$PROJECT_DIR$/data/image/lightbeam_popup_blocked.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_popup_hidden.png" afterPath="$PROJECT_DIR$/data/image/lightbeam_popup_hidden.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_popup_privacy.png" afterPath="$PROJECT_DIR$/data/image/lightbeam_popup_privacy.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_popup_stopsharing2.png" afterPath="$PROJECT_DIR$/data/image/lightbeam_popup_stopsharing2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_popup_warningreset.png" afterPath="$PROJECT_DIR$/data/image/lightbeam_popup_warningreset.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_popup_warningsharing.png" afterPath="$PROJECT_DIR$/data/image/lightbeam_popup_warningsharing.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/nytimes-aol-search.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/nytimes-aol-search.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/nytimes-home-lightbeam.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/nytimes-home-lightbeam.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/nytimes-home.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/nytimes-home.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/screencap.jpg" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/screencap.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sprite_download.png" afterPath="$PROJECT_DIR$/images/sprite_download.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/saucetesting/top-1m.csv" afterPath="$PROJECT_DIR$/saucetesting/top-1m.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-1-address-bar.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-1-address-bar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-1.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-10.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-2.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-2a.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-2a.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-3.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-4.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-5.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-5a.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-5a.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-5b.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-5b.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-5c.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-5c.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-5d.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-5d.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-5e.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-5e.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-6a.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-6a.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-6b.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-6b.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-7.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-8.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-9.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-cookie.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-cookie.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-legend.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/tracking-legend.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/vanilla.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/vanilla.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/wapo-nsa-google-cookies.png" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/img/wapo-nsa-google-cookies.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/Heuristic for determining first party-ness.md" afterPath="$PROJECT_DIR$/doc/Heuristic for determining first party-ness.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/picoModal/LICENSE.md" afterPath="$PROJECT_DIR$/data/picoModal/LICENSE.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/d3/LICENSE" afterPath="$PROJECT_DIR$/data/d3/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/font/LICENSE" afterPath="$PROJECT_DIR$/data/font/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/LICENSE" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/OpenSans.css" afterPath="$PROJECT_DIR$/data/OpenSans.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/README.md" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/README.md" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/hystogram.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/aggregate.js" afterPath="$PROJECT_DIR$/data/aggregate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/beige.css" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/beige.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/beige.scss" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/beige.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/blood.css" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/blood.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/blood.scss" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/blood.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/js/classList.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/js/classList.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/multiplex/client.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/multiplex/client.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/notes-server/client.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/notes-server/client.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/connection.js" afterPath="$PROJECT_DIR$/lib/connection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/content-script.js" afterPath="$PROJECT_DIR$/data/content-script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/d3/d3.min.js" afterPath="$PROJECT_DIR$/data/d3/d3.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/data_format.v0.0.md" afterPath="$PROJECT_DIR$/doc/data_format.v0.0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/data_format.v1.0.md" afterPath="$PROJECT_DIR$/doc/data_format.v1.0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/data_format.v1.1.md" afterPath="$PROJECT_DIR$/doc/data_format.v1.1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/data_format.v1.2.md" afterPath="$PROJECT_DIR$/doc/data_format.v1.2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/default.css" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/default.scss" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/default.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/dialog.js" afterPath="$PROJECT_DIR$/data/dialog.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/events.js" afterPath="$PROJECT_DIR$/data/events.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/tab/events.js" afterPath="$PROJECT_DIR$/lib/tab/events.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/markdown/example.html" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/markdown/example.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/postmessage/example.html" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/postmessage/example.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/markdown/example.md" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/markdown/example.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/first-run.css" afterPath="$PROJECT_DIR$/data/first-run.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/first-run.html" afterPath="$PROJECT_DIR$/data/first-run.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/font-awesome.css" afterPath="$PROJECT_DIR$/data/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/graph.js" afterPath="$PROJECT_DIR$/data/graph.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/js/head.min.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/js/head.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/highlight/highlight.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/highlight/highlight.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/js/html5shiv.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/js/html5shiv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/index.html" afterPath="$PROJECT_DIR$/data/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/index.html" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/multiplex/index.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/multiplex/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/notes-server/index.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/notes-server/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/infobar.js" afterPath="$PROJECT_DIR$/data/infobar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/initialPage.js" afterPath="$PROJECT_DIR$/data/initialPage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/font/league_gothic-webfont.svg" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/font/league_gothic-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/font/league_gothic_license" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/font/league_gothic_license" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/leap/leap.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/leap/leap.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/lightbeam.js" afterPath="$PROJECT_DIR$/data/lightbeam.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only.svg" afterPath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/image/lightbeam_logo-only.svg" afterPath="$PROJECT_DIR$/data/image/lightbeam_logo-only.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only_charcoal.svg" afterPath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only_charcoal.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only_white.svg" afterPath="$PROJECT_DIR$/assets/logo-only/lightbeam_logo-only_white.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/list.js" afterPath="$PROJECT_DIR$/data/list.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascripts/main.js" afterPath="$PROJECT_DIR$/javascripts/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/main.js" afterPath="$PROJECT_DIR$/lib/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/map.svg" afterPath="$PROJECT_DIR$/data/map.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/markdown/markdown.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/markdown/markdown.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/markdown/marked.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/markdown/marked.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/multiplex/master.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/multiplex/master.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/math/math.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/math/math.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/shared/menuitems.js" afterPath="$PROJECT_DIR$/lib/shared/menuitems.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/template/mixins.scss" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/template/mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/moon.css" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/moon.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/moon.scss" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/moon.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/mozilla.css" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/mozilla.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/night.css" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/night.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/night.scss" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/night.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/notes/notes.html" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/notes/notes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/notes-server/notes.html" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/notes-server/notes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/notes/notes.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/notes/notes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/print/paper.css" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/print/paper.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/params.json" afterPath="$PROJECT_DIR$/params.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/parseuri.js" afterPath="$PROJECT_DIR$/data/parseuri.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/print/pdf.css" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/print/pdf.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/persist.js" afterPath="$PROJECT_DIR$/lib/persist.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/picoModal/picoModal-1.0.0.min.js" afterPath="$PROJECT_DIR$/data/picoModal/picoModal-1.0.0.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/shared/policy.js" afterPath="$PROJECT_DIR$/lib/shared/policy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/positioning_test.html" afterPath="$PROJECT_DIR$/test/positioning_test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/postmessage/postmessage.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/postmessage/postmessage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/print-pdf/print-pdf.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/print-pdf/print-pdf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/pygment_trac.css" afterPath="$PROJECT_DIR$/stylesheets/pygment_trac.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/remotes/remotes.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/remotes/remotes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/reveal.css" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/reveal.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/js/reveal.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/js/reveal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/reveal.min.css" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/reveal.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/js/reveal.min.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/js/reveal.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/saucetesting/sample.js" afterPath="$PROJECT_DIR$/saucetesting/sample.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/search/search.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/search/search.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/serif.css" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/serif.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/serif.scss" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/serif.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/server notes.txt" afterPath="$PROJECT_DIR$/doc/server notes.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/template/settings.scss" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/template/settings.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/simple.css" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/simple.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/simple.scss" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/simple.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/sky.css" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/sky.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/sky.scss" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/sky.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/solarized.css" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/solarized.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/solarized.scss" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/source/solarized.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/style.css" afterPath="$PROJECT_DIR$/data/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/stylesheet.css" afterPath="$PROJECT_DIR$/stylesheets/stylesheet.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/svgdataset.js" afterPath="$PROJECT_DIR$/data/svgdataset.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test-main.js" afterPath="$PROJECT_DIR$/test/test-main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test-ui.js" afterPath="$PROJECT_DIR$/test/test-ui.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/template/theme.scss" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/css/theme/template/theme.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tooltip.js" afterPath="$PROJECT_DIR$/data/tooltip.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/ui.js" afterPath="$PROJECT_DIR$/data/ui.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/ui.js" afterPath="$PROJECT_DIR$/lib/ui.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/shared/unload+.js" afterPath="$PROJECT_DIR$/lib/shared/unload+.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/upgrade.html" afterPath="$PROJECT_DIR$/data/upgrade.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/tab/utils.js" afterPath="$PROJECT_DIR$/lib/tab/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/css/zenburn.css" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/lib/css/zenburn.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/zoom-js/zoom.js" afterPath="$PROJECT_DIR$/doc/slides/stanford-workshop-2014-02-25/plugin/zoom-js/zoom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lightbeam.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -224,16 +26,115 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="lightbeam" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="content-script.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/content-script.js">
+      <file leaf-file-name="connection.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/connection.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18691589" vertical-offset="0" max-vertical-offset="720">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state vertical-scroll-proportion="1.7045455" vertical-offset="4230" max-vertical-offset="4815">
+              <caret line="277" column="34" selection-start-line="277" selection-start-column="34" selection-end-line="277" selection-end-column="34" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lightbeam.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/lightbeam.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.5" vertical-offset="1538" max-vertical-offset="2805">
+              <caret line="119" column="5" selection-start-line="119" selection-start-column="5" selection-end-line="119" selection-end-column="5" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aggregate.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/aggregate.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="7766" max-vertical-offset="8175">
+              <caret line="530" column="13" selection-start-line="530" selection-start-column="13" selection-end-line="530" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dialog.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/dialog.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3434" max-vertical-offset="3915">
+              <caret line="240" column="64" selection-start-line="240" selection-start-column="64" selection-end-line="240" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="graph.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/graph.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5891" max-vertical-offset="6300">
+              <caret line="415" column="2" selection-start-line="415" selection-start-column="2" selection-end-line="415" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hystogram.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/hystogram.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24812031" vertical-offset="816" max-vertical-offset="1305">
+              <caret line="61" column="38" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ui.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/ui.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.1153846" vertical-offset="7449" max-vertical-offset="7845">
+              <caret line="502" column="0" selection-start-line="502" selection-start-column="0" selection-end-line="502" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.333333" vertical-offset="5977" max-vertical-offset="7335">
+              <caret line="423" column="18" selection-start-line="423" selection-start-column="18" selection-end-line="423" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="1305">
+              <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="persist.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/persist.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1532" max-vertical-offset="2355">
+              <caret line="113" column="32" selection-start-line="113" selection-start-column="32" selection-end-line="113" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -252,13 +153,21 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/data/list.js" />
-        <option value="$PROJECT_DIR$/data/aggregate.js" />
         <option value="$PROJECT_DIR$/data/content-script.js" />
+        <option value="$PROJECT_DIR$/lib/connection.js" />
+        <option value="$PROJECT_DIR$/data/aggregate.js" />
+        <option value="$PROJECT_DIR$/data/list.js" />
+        <option value="$PROJECT_DIR$/data/profile.js" />
+        <option value="$PROJECT_DIR$/data/index.html" />
+        <option value="$PROJECT_DIR$/data/ui.js" />
+        <option value="$PROJECT_DIR$/data/lightbeam.js" />
+        <option value="$PROJECT_DIR$/lib/main.js" />
+        <option value="$PROJECT_DIR$/data/hystogram.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
     <option name="y" value="22" />
     <option name="width" value="1280" />
     <option name="height" value="713" />
@@ -289,7 +198,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -305,6 +213,52 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lightbeam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbeam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbeam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbeam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbeam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbeam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbeam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shared" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -360,12 +314,31 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbeam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbeam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -373,6 +346,9 @@
     <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -388,12 +364,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="713" extended-state="6" />
+    <frame x="1" y="22" width="1280" height="713" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -405,10 +382,9 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -431,13 +407,11 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/aggregate.js">
+    <entry file="file://$PROJECT_DIR$/data/content-script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5472" max-vertical-offset="8115">
-          <caret line="381" column="3" selection-start-line="381" selection-start-column="3" selection-end-line="381" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="720">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -445,29 +419,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="5472" max-vertical-offset="8115">
           <caret line="381" column="3" selection-start-line="381" selection-start-column="3" selection-end-line="381" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/infobar.js">
+    <entry file="file://$PROJECT_DIR$/data/aggregate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.78696346" vertical-offset="495" max-vertical-offset="5520">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/dialog.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3945">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="5472" max-vertical-offset="8115">
+          <caret line="381" column="3" selection-start-line="381" selection-start-column="3" selection-end-line="381" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -475,27 +435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="642">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/graph.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.0588236" vertical-offset="4440" max-vertical-offset="6300">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/list.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="12.307693" vertical-offset="5645" max-vertical-offset="10845">
-          <caret line="355" column="118" selection-start-line="355" selection-start-column="118" selection-end-line="355" selection-end-column="118" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -503,15 +442,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.16528925" vertical-offset="100" max-vertical-offset="705">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.14876033" vertical-offset="2670" max-vertical-offset="7275">
-          <caret line="172" column="72" selection-start-line="172" selection-start-column="72" selection-end-line="172" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -519,19 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/ui.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7830">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -539,17 +456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/lightbeam.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8124006" vertical-offset="1140" max-vertical-offset="2760">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -557,7 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="642">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -565,7 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="642">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -573,7 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -581,25 +484,174 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/node_modules/core-util-is/float.patch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33175355" vertical-offset="6805" max-vertical-offset="9135">
+          <caret line="463" column="31" selection-start-line="463" selection-start-column="31" selection-end-line="463" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/aggregate.js">
+    <entry file="file://$PROJECT_DIR$/data/image/lightbeam_popup_privacy.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/image/lightbeam_icon_graph.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/image/lightbeam_icon_sortby.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/infobar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="6084" max-vertical-offset="7935">
-          <caret line="419" column="19" selection-start-line="419" selection-start-column="18" selection-end-line="419" selection-end-column="19" />
+        <state vertical-scroll-proportion="-0.7147595" vertical-offset="431" max-vertical-offset="5490">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/icons/lightbeam_icon_watch.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.7476635" vertical-offset="3048" max-vertical-offset="4515">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/shared/menuitems.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="3750">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/tooltip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1560">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.168224" vertical-offset="10053" max-vertical-offset="10695">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/content-script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18691589" vertical-offset="0" max-vertical-offset="720">
+        <state vertical-scroll-proportion="0.11214953" vertical-offset="48" max-vertical-offset="720">
           <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/connection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7045455" vertical-offset="4230" max-vertical-offset="4815">
+          <caret line="277" column="34" selection-start-line="277" selection-start-column="34" selection-end-line="277" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3434" max-vertical-offset="3915">
+          <caret line="240" column="64" selection-start-line="240" selection-start-column="64" selection-end-line="240" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/aggregate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7766" max-vertical-offset="8175">
+          <caret line="530" column="13" selection-start-line="530" selection-start-column="13" selection-end-line="530" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/graph.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5891" max-vertical-offset="6300">
+          <caret line="415" column="2" selection-start-line="415" selection-start-column="2" selection-end-line="415" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.1153846" vertical-offset="7449" max-vertical-offset="7845">
+          <caret line="502" column="0" selection-start-line="502" selection-start-column="0" selection-end-line="502" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lightbeam.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.5" vertical-offset="1538" max-vertical-offset="2805">
+          <caret line="119" column="5" selection-start-line="119" selection-start-column="5" selection-end-line="119" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.333333" vertical-offset="5977" max-vertical-offset="7335">
+          <caret line="423" column="18" selection-start-line="423" selection-start-column="18" selection-end-line="423" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="1305">
+          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/persist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1532" max-vertical-offset="2355">
+          <caret line="113" column="32" selection-start-line="113" selection-start-column="32" selection-end-line="113" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/hystogram.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24812031" vertical-offset="816" max-vertical-offset="1305">
+          <caret line="61" column="38" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
